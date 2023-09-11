@@ -1,3 +1,4 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s13040--021--00285--4-FAB70C?logo=doi)](https://doi.org/10.1186/s13040-021-00285-4)
 
 - Experiments and exporting the prior biological knowledge information steps are shared in 'project_bash.sh' file.
 
